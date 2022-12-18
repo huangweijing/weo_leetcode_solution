@@ -16,7 +16,7 @@ Return the minimum cost of a path for the frog.
 
 ### Examples
 
-https://assets.leetcode.com/uploads/2022/11/14/example-1.png
+![image](https://assets.leetcode.com/uploads/2022/11/14/example-1.png)
 
 ### 日本語説明
 
