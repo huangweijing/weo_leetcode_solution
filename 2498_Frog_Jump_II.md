@@ -18,6 +18,8 @@ Return the minimum cost of a path for the frog.
 
 ![image](https://assets.leetcode.com/uploads/2022/11/14/example-1.png)
 
+$$ \sum_{i=1}^{n}i=\frac{n(n+1)}{2} $$
+
 ### 日本語説明
 
 
